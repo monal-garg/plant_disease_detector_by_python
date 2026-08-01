@@ -1,0 +1,237 @@
+{
+  "Pepper,_bell___Bacterial_spot": {
+    "disease_name": "Bacterial Spot (Pepper)",
+    "description": "Dark, water-soaked spots on leaves and fruit caused by Xanthomonas bacteria. Spreads fast in warm, humid, wet conditions.",
+    "organic_remedies": [
+      "Spray neem oil solution (5ml neem oil + 2ml liquid soap per litre of water) every 7 days on leaves.",
+      "Apply copper-based organic fungicide (like copper oxychloride, OMRI-approved) as a preventive spray.",
+      "Remove and destroy infected leaves immediately to stop spread.",
+      "Avoid overhead watering; water at the base of the plant only, in the morning.",
+      "Rotate crops - do not plant peppers/tomatoes in the same soil for 2-3 years.",
+      "Use compost tea or cow-dung based bio-fungicide spray to boost plant immunity."
+    ],
+    "prevention_tips": [
+      "Use disease-free, certified seeds.",
+      "Maintain proper spacing between plants for airflow.",
+      "Mulch around the base to prevent soil splashing onto leaves."
+    ]
+  },
+  "Pepper,_bell___healthy": {
+    "disease_name": "Healthy",
+    "description": "This pepper plant leaf looks healthy with no visible signs of disease or pest damage.",
+    "organic_remedies": [
+      "No treatment needed right now.",
+      "Continue regular monitoring for early signs of pests or disease.",
+      "Apply organic compost every 3-4 weeks to maintain soil health."
+    ],
+    "prevention_tips": [
+      "Maintain consistent watering schedule.",
+      "Use organic mulch to retain soil moisture and suppress weeds.",
+      "Apply neem oil spray once every 2 weeks as a preventive measure."
+    ]
+  },
+  "Potato___Early_blight": {
+    "disease_name": "Early Blight (Potato)",
+    "description": "Dark brown spots with concentric rings (target-like pattern) on older leaves, caused by the fungus Alternaria solani.",
+    "organic_remedies": [
+      "Spray a mixture of baking soda (1 tbsp), neem oil (1 tbsp), and liquid soap (few drops) in 4 litres of water weekly.",
+      "Use compost tea spray to strengthen plant immunity.",
+      "Remove and burn/destroy infected lower leaves as soon as spotted.",
+      "Apply organic copper fungicide spray every 7-10 days during humid weather.",
+      "Improve air circulation by proper plant spacing."
+    ],
+    "prevention_tips": [
+      "Practice crop rotation (avoid potato/tomato family in same spot for 2-3 years).",
+      "Water at soil level, avoid wetting foliage.",
+      "Remove plant debris after harvest to reduce fungal spores in soil."
+    ]
+  },
+  "Potato___Late_blight": {
+    "disease_name": "Late Blight (Potato)",
+    "description": "Serious disease causing dark, water-soaked patches on leaves that quickly turn brown/black. Caused by Phytophthora infestans; can destroy entire crop if untreated.",
+    "organic_remedies": [
+      "Immediately remove and destroy (burn, do not compost) all infected plants to stop spread.",
+      "Spray copper-based organic fungicide (copper hydroxide/oxychloride) every 5-7 days as soon as symptoms appear.",
+      "Use a garlic and chili extract spray as a natural antifungal.",
+      "Improve drainage - late blight thrives in wet, waterlogged soil.",
+      "Avoid overhead irrigation; water early in the day so leaves dry quickly."
+    ],
+    "prevention_tips": [
+      "Plant blight-resistant potato varieties if available.",
+      "Ensure good spacing and airflow between plants.",
+      "Destroy volunteer potato plants and infected debris after harvest."
+    ]
+  },
+  "Potato___healthy": {
+    "disease_name": "Healthy",
+    "description": "This potato plant leaf looks healthy with no visible signs of disease.",
+    "organic_remedies": [
+      "No treatment needed right now.",
+      "Continue regular field monitoring, especially during humid weather.",
+      "Apply organic compost/vermicompost for continued healthy growth."
+    ],
+    "prevention_tips": [
+      "Maintain proper irrigation - avoid waterlogging.",
+      "Practice crop rotation every season.",
+      "Use neem cake in soil as a natural pest deterrent."
+    ]
+  },
+  "Tomato___Bacterial_spot": {
+    "disease_name": "Bacterial Spot (Tomato)",
+    "description": "Small, dark, greasy-looking spots on leaves, stems and fruit caused by Xanthomonas bacteria.",
+    "organic_remedies": [
+      "Spray neem oil + liquid soap solution every 7 days.",
+      "Apply organic copper-based bactericide as soon as spots appear.",
+      "Remove infected leaves and destroy them (do not compost).",
+      "Water only at the base of plants, avoid wetting leaves.",
+      "Use a diluted hydrogen peroxide spray (1 part 3% H2O2 to 10 parts water) on affected areas."
+    ],
+    "prevention_tips": [
+      "Use certified disease-free seeds/seedlings.",
+      "Rotate crops - avoid planting tomato/pepper in same soil consecutively.",
+      "Stake or cage plants to improve airflow and keep foliage off the ground."
+    ]
+  },
+  "Tomato___Early_blight": {
+    "disease_name": "Early Blight (Tomato)",
+    "description": "Brown spots with concentric rings on older/lower leaves, caused by Alternaria solani fungus.",
+    "organic_remedies": [
+      "Spray neem oil solution every 7 days on both sides of leaves.",
+      "Use baking soda spray (1 tbsp baking soda + 1 tsp mild soap in 4L water).",
+      "Remove and destroy affected lower leaves promptly.",
+      "Apply compost tea to boost plant immune response.",
+      "Mulch around base with straw to prevent soil-borne spores splashing onto leaves."
+    ],
+    "prevention_tips": [
+      "Rotate crops every 2-3 years.",
+      "Water at the base in the morning; avoid wetting foliage.",
+      "Stake plants for better air circulation."
+    ]
+  },
+  "Tomato___Late_blight": {
+    "disease_name": "Late Blight (Tomato)",
+    "description": "Fast-spreading disease with dark, water-soaked lesions on leaves and fruit rot, caused by Phytophthora infestans. Can destroy the crop within days in humid weather.",
+    "organic_remedies": [
+      "Remove and destroy infected plants immediately (burn, do not compost).",
+      "Spray organic copper fungicide every 5-7 days at first sign of disease.",
+      "Use garlic-chili extract spray as a natural antifungal booster.",
+      "Improve soil drainage and avoid overhead watering.",
+      "Apply Bacillus subtilis based organic bio-fungicide as a preventive measure."
+    ],
+    "prevention_tips": [
+      "Choose blight-resistant tomato varieties.",
+      "Ensure wide spacing and staking for airflow.",
+      "Avoid working in the garden when foliage is wet to prevent spreading spores."
+    ]
+  },
+  "Tomato___Leaf_Mold": {
+    "disease_name": "Leaf Mold (Tomato)",
+    "description": "Yellow patches on upper leaf surface with olive-green/grayish mold on the underside, caused by Passalora fulva fungus. Common in humid greenhouse conditions.",
+    "organic_remedies": [
+      "Improve ventilation - increase spacing and prune lower leaves.",
+      "Spray neem oil or potassium bicarbonate solution every 7 days.",
+      "Reduce humidity by watering early in the day at the base of plants.",
+      "Remove and destroy heavily infected leaves.",
+      "Apply compost tea to strengthen plant defenses."
+    ],
+    "prevention_tips": [
+      "Avoid overcrowding plants.",
+      "Use drip irrigation instead of overhead sprinklers.",
+      "Ventilate greenhouses/polyhouses regularly."
+    ]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "disease_name": "Septoria Leaf Spot (Tomato)",
+    "description": "Small circular spots with dark borders and gray centers on lower leaves, caused by Septoria lycopersici fungus.",
+    "organic_remedies": [
+      "Remove infected lower leaves immediately.",
+      "Spray neem oil or copper-based organic fungicide every 7-10 days.",
+      "Apply a baking soda + horticultural oil spray weekly.",
+      "Mulch soil to prevent fungal spores splashing onto leaves during rain/watering.",
+      "Use compost tea to improve overall plant health."
+    ],
+    "prevention_tips": [
+      "Rotate crops each season.",
+      "Water at the base, keep foliage dry.",
+      "Clean up and destroy plant debris after harvest."
+    ]
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "disease_name": "Two-Spotted Spider Mite Infestation (Tomato)",
+    "description": "Tiny pests causing yellow stippling/speckling on leaves and fine webbing. Thrives in hot, dry conditions.",
+    "organic_remedies": [
+      "Spray a strong jet of water on the underside of leaves to knock off mites.",
+      "Apply neem oil spray every 5-7 days, focusing on the underside of leaves.",
+      "Introduce natural predators like ladybugs or predatory mites.",
+      "Use insecticidal soap spray (mix mild liquid soap with water) directly on mites.",
+      "Keep plants well-watered - mites thrive on drought-stressed plants."
+    ],
+    "prevention_tips": [
+      "Avoid excessive dust and dry conditions around plants.",
+      "Regularly inspect undersides of leaves for early signs of mites.",
+      "Maintain healthy soil moisture to reduce plant stress."
+    ]
+  },
+  "Tomato___Target_Spot": {
+    "disease_name": "Target Spot (Tomato)",
+    "description": "Brown lesions with concentric target-like rings on leaves, stems and fruit, caused by Corynespora cassiicola fungus.",
+    "organic_remedies": [
+      "Remove and destroy infected leaves promptly.",
+      "Spray neem oil or copper-based organic fungicide every 7 days.",
+      "Improve air circulation through proper spacing and pruning.",
+      "Apply compost tea to boost natural plant resistance.",
+      "Avoid overhead watering; irrigate at soil level."
+    ],
+    "prevention_tips": [
+      "Rotate crops with non-host plants.",
+      "Remove plant debris after harvest.",
+      "Stake/cage plants to keep foliage off the ground."
+    ]
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "description": "Viral disease spread by whiteflies, causing upward curling and yellowing of leaves, stunted growth.",
+    "organic_remedies": [
+      "Control whiteflies using yellow sticky traps around the field.",
+      "Spray neem oil regularly to repel whiteflies (main carrier of this virus).",
+      "Remove and destroy infected plants immediately to prevent spread.",
+      "Use reflective mulch (silver plastic) to repel whiteflies.",
+      "Introduce natural predators of whiteflies like ladybugs and lacewings."
+    ],
+    "prevention_tips": [
+      "Use virus-resistant tomato varieties if available.",
+      "Keep the area free of weeds that host whiteflies.",
+      "Use fine mesh netting on nursery seedlings to block whiteflies."
+    ]
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "disease_name": "Tomato Mosaic Virus",
+    "description": "Viral disease causing mottled light/dark green patterns on leaves, leaf curling, and stunted growth.",
+    "organic_remedies": [
+      "Remove and destroy infected plants immediately - there is no cure once infected.",
+      "Disinfect tools and hands with soap/diluted milk solution between handling plants.",
+      "Avoid smoking or tobacco use near plants (virus can spread from tobacco products).",
+      "Control aphids using neem oil spray, as they can spread the virus.",
+      "Practice strict field sanitation and remove weeds that may host the virus."
+    ],
+    "prevention_tips": [
+      "Use certified virus-free seeds.",
+      "Wash hands and tools before handling different plants.",
+      "Rotate crops and avoid planting in previously infected soil."
+    ]
+  },
+  "Tomato___healthy": {
+    "disease_name": "Healthy",
+    "description": "This tomato plant leaf looks healthy with no visible signs of disease or pest damage.",
+    "organic_remedies": [
+      "No treatment needed right now.",
+      "Continue regular monitoring for early signs of pests or disease.",
+      "Apply organic compost every 3-4 weeks to maintain soil health."
+    ],
+    "prevention_tips": [
+      "Maintain consistent watering at the base of plants.",
+      "Use organic mulch to retain moisture and suppress weeds.",
+      "Apply neem oil spray once every 2 weeks as a preventive measure."
+    ]
+  }
+}
