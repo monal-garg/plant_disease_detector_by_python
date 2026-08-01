@@ -41,6 +41,23 @@ def preprocess_image(image: Image.Image):
     return arr
 
 
+def is_likely_leaf_image(image: Image.Image, min_green_ratio=0.12):
+    """
+    Heuristic check: leaf/plant photos have a meaningful proportion of green pixels.
+    Photos of faces, documents, random objects usually don't.
+    This isn't perfect, but filters out obviously wrong inputs before running the model.
+    """
+    small = image.convert('RGB').resize((100, 100))
+    arr = np.array(small).astype(np.int16)
+    r, g, b = arr[:, :, 0], arr[:, :, 1], arr[:, :, 2]
+
+    # A pixel counts as "green-ish" if green channel clearly dominates red and blue
+    green_mask = (g > r + 10) & (g > b + 10)
+    green_ratio = float(green_mask.mean())
+
+    return green_ratio >= min_green_ratio, green_ratio
+
+
 def predict_image(image: Image.Image):
     input_tensor = preprocess_image(image)
     outputs = session.run(None, {input_name: input_tensor})
@@ -98,6 +115,12 @@ def predict():
 
         if image is None:
             return jsonify({'error': 'No image provided'}), 400
+
+        is_leaf, green_ratio = is_likely_leaf_image(image)
+        if not is_leaf:
+            return jsonify({
+                'error': "This doesn't look like a plant leaf photo. Please take a clear, close-up photo of a single leaf and try again."
+            }), 400
 
         result = predict_image(image)
         return jsonify(result)
